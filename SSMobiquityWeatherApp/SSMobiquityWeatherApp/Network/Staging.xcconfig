@@ -1,0 +1,15 @@
+//
+//  Staging.xcconfig
+//  SSMobiquityWeatherApp
+//
+//  Created by Suraj Shandil on 7/29/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+//"http://api.openweathermap.org/data/2.5/weather"
+API_BASE_URL    = http:\/\/api.openweathermap.org/data/2.5/forecast
+API_SERVICE_KEY  = fae7190d7e6433ec3a45285ffcf55c86
+
